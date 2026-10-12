@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1764531997 source:c:\users\youss\tp\projet finale\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+
